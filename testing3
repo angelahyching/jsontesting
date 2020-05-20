@@ -1,4 +1,8 @@
 {
   "Title": ["Title 1", "Title 2", "Title 3"],
   "Body": ["B1", "B2", "B3", "B4"]
+},
+{
+  "Lol": ["L 1", "L 2", "L 3"],
+  "Haha": ["H1", "H2", "H3", "H4"]
 }
